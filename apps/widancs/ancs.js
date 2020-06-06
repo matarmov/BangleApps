@@ -172,7 +172,7 @@
     if (state.current.cat!=1){
       E.showAlert(title,title).then(send_action.bind(null,false));
     } else {
-      E.showPrompt(title,{title:title,buttons:{"Accept":true,"Cancel":false}}).then(send_action);
+      E.showPrompt("123",{title:title,buttons:{"Accept":true,"Cancel":false}}).then(send_action);
     }
   }
 
