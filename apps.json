@@ -1905,17 +1905,5 @@
       {"name":"life.app.js","url":"life.min.js"},
       {"name":"life.img","url":"life-icon.js","evaluate":true}
     ]
-  },
-{ "id": "timer",
-  "name": "My Timer App",
-  "shortName":"My Timer",
-  "icon": "app.png",
-  "version":"0.01",
-  "description": "This is a description of my awesome timer app",
-  "tags": "",
-  "storage": [
-    {"name":"timer.app.js","url":"app.js"},
-    {"name":"timer.img","url":"app-icon.js","evaluate":true}
-  ]
 }
 ]
