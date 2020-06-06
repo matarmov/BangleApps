@@ -17,7 +17,6 @@
     "icon": "widget.png",
     "version":"0.03",
     "description": "Displays calls and messages from a paired iPhone. You can also accept or reject calls. Needs modified clock apps. *** WARNING requires modified firmware",
-    "readme": "README.md",
     "tags": "widget",
     "type": "widget",
     "storage": [
