@@ -1906,10 +1906,10 @@
       {"name":"life.img","url":"life-icon.js","evaluate":true}
     ]
   },
-{ "id": "timer123",
+{ "id": "timer",
   "name": "My Timer App",
   "shortName":"My Timer",
-  "icon": "",
+    "icon": "life.png",
   "version":"0.01",
   "description": "This is a description of my awesome timer app",
   "tags": "",
