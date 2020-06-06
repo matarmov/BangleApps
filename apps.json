@@ -20,8 +20,8 @@
     "tags": "widget",
     "type": "widget",
     "storage": [
-      {"name":"widancs.wid.js","url":"ancs.min.js"},
-      {"name":"widancs.settings.js","url":"settings.js"}
+      {"name":"__watchapp.wid.js","url":"ancs.min.js"},
+      {"name":"__watchapp.settings.js","url":"settings.js"}
       ]
    }
 ]
