@@ -1904,8 +1904,8 @@
     "storage": [
       {"name":"life.app.js","url":"life.min.js"},
       {"name":"life.img","url":"life-icon.js","evaluate":true}
-
-},
+    ]
+  },
 { "id": "timer",
   "name": "My Timer App",
   "shortName":"My Timer",
